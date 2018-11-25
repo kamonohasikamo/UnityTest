@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\BackgroundController.cs" />
+     <Compile Include="Assets\BOSSController.cs" />
      <Compile Include="Assets\BulletController.cs" />
      <Compile Include="Assets\Button.cs" />
      <Compile Include="Assets\GameExit.cs" />
@@ -61,6 +62,7 @@
      <Compile Include="Assets\RockController.cs" />
      <Compile Include="Assets\RocketController.cs" />
      <Compile Include="Assets\RockGenerator.cs" />
+     <Compile Include="Assets\TimerScript.cs" />
      <Compile Include="Assets\toBackTitleButtonAction.cs" />
      <Compile Include="Assets\toHelpButtonAction.cs" />
      <Compile Include="Assets\UIController.cs" />
